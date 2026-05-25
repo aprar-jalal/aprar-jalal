@@ -34,13 +34,39 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30" /> Projects I Worked On:
+## 🚀 Projects I Worked On
 
-* 📌 **Ancura** – Mental health mobile application with anonymous posting and verified doctors
-* 📌 **Najah Reminder** – Mobile app connected with Zajel system for academic notifications
-* 📌 **Internet Games Database (IGDB)** – Website for rating and reviewing games
-* 📌 **Job Listing Platform** – Web application for job searching and favorites management
+---
 
+### 📱 Ancura – Mental Health Mobile App
+A mobile platform where users can anonymously seek mental health support from licensed professionals.  
+It also provides articles, self-help tools, and supportive resources to improve mental well-being.
+
+**Tech Stack:** React Native (Expo), TypeScript, Supabase, React Query, React Navigation  
+
+---
+
+### 🛍️ E-Commerce Application
+A frontend e-commerce application built with React and Vite.  
+Includes multi-language support (i18n), ESLint configuration, and fast development with Hot Module Replacement (HMR).
+
+**Tech Stack:** React, Vite, JavaScript, HTML, CSS  
+
+---
+
+### 💼 Job Portal
+A web-based job portal built with Angular and TypeScript.  
+Allows users to browse job listings and interact with them in a structured UI.
+
+**Tech Stack:** Angular, TypeScript, HTML, CSS  
+
+---
+
+### 🎯 Opportunity Matcher (Big Data Project)
+A big data system that matches opportunities (jobs/scholarships) using real-time stream processing with Apache Kafka.  
+Built as a team project focusing on distributed data processing and analytics.
+
+**Tech Stack:** Scala, Apache Kafka, HTML, JavaScript, CSS  
 ---
 
 ### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30" /> Currently Learning:
