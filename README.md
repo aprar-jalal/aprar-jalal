@@ -52,7 +52,6 @@
 * 🔹 System Design
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,18 +67,19 @@
 </p>
 
 ---
+
 ## 🛠️ Tech Stack Summary
 
-| Area             | Technologies                                       |
-| ---------------- | -------------------------------------------------- |
-| **Backend**      | C# / ASP.NET, Laravel (PHP), Entity Framework      |
-| **Frontend**     | React, Angular, Bootstrap, HTML/CSS                |
-| **Build Tools**  | Vite, Artisan                                      |
-| **Big Data**     | Apache Kafka, Scala                                |
-| **Databases**    | SQL, Entity Framework Migrations, Laravel Eloquent |
-| **Networking**   | GNS3 Network Simulation                            |
-| **Testing / QA** | QA Methodologies, Test Case Design                 |
-| **OOP / Design** | SOLID Principles, Abstraction, Exception Handling  |
+| Area | Technologies |
+|------|--------------|
+| Backend | C# / ASP.NET, Laravel (PHP), Entity Framework |
+| Frontend | React, Angular, Bootstrap, HTML/CSS |
+| Build Tools | Vite, Artisan |
+| Big Data | Apache Kafka, Scala |
+| Databases | SQL, EF Migrations, Laravel Eloquent |
+| Networking | GNS3 |
+| Testing / QA | QA Methodologies, Test Case Design |
+| OOP / Design | SOLID, Abstraction, Exception Handling |
 
 ---
 
