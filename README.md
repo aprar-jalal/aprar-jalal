@@ -100,7 +100,7 @@ Built as a team project focusing on distributed data processing and analytics.
 |------|--------------|
 | Backend | C# / ASP.NET, Laravel (PHP), Entity Framework |
 | Frontend | React, Angular, Bootstrap, HTML/CSS |
-| Build Tools | Vite, Artisan |
+| Build Tools | Vite, Native |
 | Big Data | Apache Kafka, Scala |
 | Databases | SQL, EF Migrations, Laravel Eloquent |
 | Networking | GNS3 |
